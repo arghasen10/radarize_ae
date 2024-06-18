@@ -124,7 +124,6 @@ DATASET:
     - walk_ece_upper_1
     - cart_csl_upper_loop_0
     - walk_ece_upper_2
-    - bot_beckman_basement_2
     - bot_sc_4thfloor_1
     - bot_beckman_3rdfloor_3
     - bot_csl_4thfloor_1
